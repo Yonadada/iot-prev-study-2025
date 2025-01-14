@@ -12,8 +12,11 @@
 - remote repository 생성
 - 깃허브 테스크탑 local repository로 클론
 - local에서 작성 후 commit
-- remote로 push
-- 다른 사용자가 리모트에 있는 최신 내용을 풀(Pull)
+- remote로 푸시(**Push**)
+- 다른 사용자가 리모트에 있는 최신 내용을 풀(`Push`)
+* 파일에 내용이 없다면 (**Commit&Push**)를 했을 때 해당 파일은 git에 올라가지 않는다
+
+
 
 
 ### Markdown 학습
@@ -76,6 +79,8 @@
 - 확장자 .py(thon)
 - 탐색기 > day01 폴더 생성
 - py01_first.py 파일 생성
+    
+
 
 
 

@@ -69,22 +69,11 @@
 - Add Python.ext to path는 체크
 - install python #.## for all users 체크
 - customize install location 에서 슬래시 부터 경로 복사
-- dev 밑에 Lang 파일 새로 만들어서 경로 Lang\Python313 -> 이런식으로 되게끔 
-- 경로 변경 후 설치 
-- Disable MAX Langs PATH... 체크 필수 
-- 설치 확인
-    - cmd(명령프롬프트)  또는 powershell 실행 후 python 입력
-
-- VS Code 확장 > Python 검색
-- 확장자 .py(thon)
-- 탐색기 > day01 폴더 생성
-- py01_first.py 파일 생성
-    
+- dev 밑에 Lang 파일 새로 만들어서 경로 Lang\Python31법
 
 
-
-
-
+## 2일차
+- 파이썬 문법
 
 
 

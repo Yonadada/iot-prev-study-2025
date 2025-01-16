@@ -10,7 +10,7 @@ f.write('저는 호주사람입니다\n')
 f.write('성별은 안 알랴줌\n')
 f.close()
 
-print('Success New textfile')
+print('Success New textfile\n')
 
 
 ## 읽기
